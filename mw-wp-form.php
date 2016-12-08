@@ -48,6 +48,8 @@ class MW_WP_Form {
 		'minlength'     => '',
 		'filetype'      => '',
 		'filesize'      => '',
+		'conditionalnoempty'  => '',
+		'conditionalrequired' => '',
 	);
 
 	/**
